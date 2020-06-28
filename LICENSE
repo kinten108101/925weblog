@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 MIT License
 
 Copyright (c) 2018 Calpa Liu
@@ -21,6 +22,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 =======
+=======
+>>>>>>> 7d8f1fd85f2f844883097cdb748ccf8ad83d51c6
                   GNU LESSER GENERAL PUBLIC LICENSE
                        Version 2.1, February 1999
 
@@ -525,4 +528,7 @@ necessary.  Here is a sample; alter the names:
   Ty Coon, President of Vice
 
 That's all there is to it!
+<<<<<<< HEAD
+>>>>>>> 7d8f1fd85f2f844883097cdb748ccf8ad83d51c6
+=======
 >>>>>>> 7d8f1fd85f2f844883097cdb748ccf8ad83d51c6
