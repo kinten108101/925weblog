@@ -20,12 +20,12 @@ const Footer = () => (
             />
             .&nbsp;Hosted on&nbsp;
             <ExternalLink href="https://pages.github.com/" title="gh-pages" />
-            <br />
+            /*(<br />
             Forked from &nbsp;
             <ExternalLink
               href="https://github.com/calpa/gatsby-starter-calpa-blog"
               title="calpa/gatsby-starter-calpa-blog"
-            />
+            /> */
           </p>
           <p className="copyright">
             Copyright&nbsp;
@@ -33,7 +33,6 @@ const Footer = () => (
             &nbsp;
             {config.title}
             {new Date().getFullYear()}
-            &nbsp;Theme by Calpa Liu
           </p>
         </div>
       </div>

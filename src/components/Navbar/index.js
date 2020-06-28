@@ -22,28 +22,7 @@ const NavbarClass = [
 const Navbar = () => (
   <nav id="m-navbar" className={`${NavbarClass.join(' ')} navbar-night`}>
     <div className="container">
-      <button
-        type="button"
-        className="navbar-brand btn btn-default"
-        onClick={() => {
-          ReactGA.event({
-            category: 'User',
-            action: 'Click navbar logo',
-          });
-          gotoPage('/');
-        }}
-      >
-        <span className="brand-logo">Calpa</span>
-        &apos;s Blog
-      </button>
-      <button
-        className="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-      >
-        <FontAwesomeIcon icon={faBars} />
-      </button>
+      
       <GithubCorner url="https://github.com/calpa/gatsby-starter-calpa-blog" />
       <div
         className="collapse navbar-collapse flex-row-reverse"

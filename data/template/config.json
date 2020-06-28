@@ -1,39 +1,39 @@
 {
-  "url": "https://calpa.me",
+  "url": "https://example.com",
   "meta": {
-    "favicon": "https://i.imgur.com/PO9Y4fT.jpg",
-    "keyword": "calpa, blog, JavaScript",
-    "description": "Calpa 的技術博客，開發日常，以及遇到的坑",
-    "theme_color": "#384f7c",
+    "favicon": "https://i.imgur.com/F3PfJWv.png",
+    "keyword": "none for now",
+    "description": "open-sauce amateur",
+    "theme_color": "#44dbc0",
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
-  "name": "calpa",
-  "about": "/2018/05/01/about-calpa-liu/",
-  "email": "calpaliu@gmail.com",
+  "name": "kinten",
+  "about": "",
+  "email": "gb.lenguyen@gmail.com",
   "stats": {
-    "image": "https://i.imgur.com/VjBWiSt.png",
-    "title": "過去三十日數據",
-    "description": "過去三十日數據"
+    "image": "https://i.imgur.com/F3PfJWv.png",
+    "title": "title",
+    "description": "description"
   },
-  "title": "Calpa 的技術博客",
+  "title": "925weblog",
   "gitalk": {
-    "repo": "calpa.github.io",
-    "admin": ["calpa"],
-    "owner": "calpa",
+    "repo": "https://github.com/kinten108101",
+    "admin": ["kinten108101"],
+    "owner": "kinten108101",
     "clientID": "18255f031b5e11edd98a",
     "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
     "pagerDirection": "first",
-    "distractionFreeMode": true
+    "distractionFreeMode": false
   },
   "License": "by",
   "friends": [
     {
-      "href": "https://calpa.me",
-      "title": "Calpa's Blog"
+      "href": "https://luyenchuyenanh.wordpress.com",
+      "title": "Luyenchuyenanh.wordpress.com"
     }
   ],
-  "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
-  "wordings": ["GatsbyJS, ReactJS", "全週期開發者"],
+  "iconUrl": "https://i.imgur.com/lFpe9k0.gifv",
+  "wordings": ["open-sauce", "toystore"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
