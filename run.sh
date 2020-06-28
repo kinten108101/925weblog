@@ -1,1 +1,4 @@
-npm run deploy
+git init
+git add .
+git commit -m "some changes"
+git push origin HEAD:gh-pages
