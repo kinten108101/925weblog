@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Gatsby Starter - Calpa's Blog
 
 [![GitHub license](https://img.shields.io/github/license/calpa/gatsby-starter-calpa-blog.svg)](https://github.com/calpa/gatsby-starter-calpa-blog/blob/master/LICENSE)
@@ -215,3 +216,6 @@ And don't hesitate to put your star and watch this starter project.
 If you are interested in this project, please feel free to contact [Calpa Liu](calpaliu@gmail.com).
 
 Thanks For Contribute... :)
+=======
+# 925weblog
+>>>>>>> 7d8f1fd85f2f844883097cdb748ccf8ad83d51c6
